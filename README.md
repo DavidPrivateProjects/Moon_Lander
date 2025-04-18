@@ -48,10 +48,9 @@ Modify the following parameters for your experiments:
 
 ## Neural network structure:
 
-self.model.add(layers.Dense(16, activation='relu'))
-self.model.add(layers.Dense(16, activation='relu'))
-self.model.add(layers.Dense(num_actions, activation='linear'))
-Feel free to experiment with deeper architectures or convolutional layers for more complex tasks.
+- self.model.add(layers.Dense(16, activation='relu'))
+- self.model.add(layers.Dense(16, activation='relu'))
+- self.model.add(layers.Dense(num_actions, activation='linear'))
 
 ## How It Works
 Double DQN Architecture
