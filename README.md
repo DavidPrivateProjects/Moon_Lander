@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/7d5925c2-2904-4985-b3a2-a123bf6a2a00
 
 2. Train the Double DQN agent
 - In the same script, the agent is trained for a fixed number of episodes.
-- You can adjust the number of episodes and training parameters as needed. The training process.
+- The number of episodes and training parameters can be adjusted as needed.
 - Logs per-episode rewards.
 - Applies epsilon-greedy exploration with linear decay.
 - Trains the Q-networks using experience replay.
@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/7d5925c2-2904-4985-b3a2-a123bf6a2a00
 - At the end of training, a video of the trained agent will be created and saved.
   
 ## Customization
-Modify the following parameters for your experiments:
+Following parameters can be modified in future experiments:
 
 - DoubleDQN(...)
 - epsilon: Initial exploration rate
