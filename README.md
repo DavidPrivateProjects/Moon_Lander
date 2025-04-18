@@ -1,7 +1,7 @@
 # Lunar Lander Double DQN Agent
 A reinforcement learning project using a Double Deep Q-Network (Double DQN) agent to solve OpenAI Gym's LunarLander-v2 environment. The project includes real-time video rendering of agent gameplay, random agent baseline evaluation, and full training and testing of the Double DQN agent with optional performance visualization.
 
-
+https://github.com/user-attachments/assets/7d5925c2-2904-4985-b3a2-a123bf6a2a00
 
 ## Features
 - Implementation of a Double DQN agent from scratch using TensorFlow/Keras
