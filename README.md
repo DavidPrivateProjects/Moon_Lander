@@ -66,6 +66,6 @@ Video Rendering
 - Screenshots are captured using matplotlib's camera.snap()
 - Video is exported using camera.animate().save(...)
 
-License
+## License
 This project is licensed under the MIT License. Feel free to use and modify the code for educational or research purposes.
 
